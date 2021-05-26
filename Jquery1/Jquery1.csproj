@@ -67,7 +67,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\default1.jpg" />
+    <Content Include="Images\flower1.jpeg" />
+    <Content Include="Images\flower2.jpg" />
+    <Content Include="Images\flower3.jpg" />
+    <Content Include="Images\lights.jpg" />
+    <Content Include="jquery-3.6.0.js" />
     <Content Include="SamuIndex1.html" />
+    <Content Include="SamuIndex2.html" />
+    <Content Include="SamuIndex3.html" />
+    <Content Include="SamuIndex4.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
