@@ -78,6 +78,8 @@
     <Content Include="SamuIndex3.html" />
     <Content Include="SamuIndex4.html" />
     <Content Include="SamuIndex5.html" />
+    <Content Include="SamuIndex6.html" />
+    <Content Include="SamuIndex7.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
